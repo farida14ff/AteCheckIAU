@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457458601410",
+    "firebase_url": "https://atecheck.firebaseio.com",
+    "project_id": "atecheck",
+    "storage_bucket": "atecheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457458601410:android:eca9bf2ef6d82cd3551a5b",
+        "android_client_info": {
+          "package_name": "com.example.electrionicsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457458601410-mu4vu8i6kabolsqkc49fn7kc9ai08j6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqV2yioy3Cp85BiDgNoMiUsPArsSUOS-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457458601410-mu4vu8i6kabolsqkc49fn7kc9ai08j6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
